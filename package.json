@@ -2,7 +2,7 @@
   "name": "fluentui-react-tree-typing-test",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "Unlicense",
   "private": true,
   "packageManager": "yarn@3.5.1",
   "scripts": {
