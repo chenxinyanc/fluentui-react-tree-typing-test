@@ -4,7 +4,8 @@
         "module": "ESNext",
         "strict": true,
         "jsx": "react-jsx",
-        "moduleResolution": "nodenext"
+        "moduleResolution": "nodenext",
+        "noEmit": true
     },
     "include": [
         "src"

@@ -5,6 +5,9 @@
   "license": "MIT",
   "private": true,
   "packageManager": "yarn@3.5.1",
+  "scripts": {
+    "build": "tsc -p ."
+  },
   "devDependencies": {
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
