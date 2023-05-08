@@ -1,6 +1,8 @@
 # fluentui-react-tree-typing-test
 
-## Get started
+See [microsoft/fluentui#27789](https://github.com/microsoft/fluentui/issues/27789).
+
+## Getting started
 
 ```powershell
 # Ensure you have installed yarn package manager (e.g., with `npm i -g yarn`)
